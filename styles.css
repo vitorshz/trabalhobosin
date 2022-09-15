@@ -1,0 +1,23 @@
+h4 {
+    margin: 20px 0px;
+    font-size: 25px;
+    
+    
+}
+.trabalho{
+    display: grid;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+}
+p{
+    margin: 0px;
+}
+
+.title {
+    display: center; 
+    
+}
+.text {
+    align-items: center;
+}
