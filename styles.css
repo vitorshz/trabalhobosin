@@ -4,13 +4,13 @@ h4 {
 }
 .trabalho {
     display: grid;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     margin-left: 20px;
 }
 p, li {
     margin: 0px;
-    font-size: 18px;
+    font-size: 17px;
     margin-bottom: 6px;
 }
 
@@ -22,4 +22,10 @@ p, li {
 }
 table{
     margin: auto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
 }
