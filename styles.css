@@ -1,12 +1,14 @@
 h4 {
     margin: 20px 0px;
     font-size: 25px;
+    
 }
 .trabalho {
     display: grid;
-    padding-left: 40px;
-    padding-right: 40px;
-    margin-left: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+
 }
 p, li {
     margin: 0px;
@@ -30,4 +32,13 @@ img{
 }
 .topic{
     text-align: center;
+   
+    color: gray;
+}
+.corpo{
+    border: 2px lightslategray solid;
+    margin: 30px 50px;
+    padding-bottom: 110px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px  rgb(0 0 0 / 20%);
 }
